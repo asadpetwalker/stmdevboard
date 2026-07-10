@@ -5065,7 +5065,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 144.78) (xy 256.54 144.78)
+			(xy 246.38 144.78) (xy 254 144.78)
 		)
 		(stroke
 			(width 0)
@@ -5175,7 +5175,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 127) (xy 256.54 127)
+			(xy 246.38 127) (xy 254 127)
 		)
 		(stroke
 			(width 0)
@@ -5225,7 +5225,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 142.24) (xy 256.54 142.24)
+			(xy 246.38 142.24) (xy 254 142.24)
 		)
 		(stroke
 			(width 0)
@@ -5395,7 +5395,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 129.54) (xy 256.54 129.54)
+			(xy 246.38 129.54) (xy 254 129.54)
 		)
 		(stroke
 			(width 0)
@@ -5605,7 +5605,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 116.84) (xy 246.38 116.84)
+			(xy 254 116.84) (xy 246.38 116.84)
 		)
 		(stroke
 			(width 0)
@@ -5635,7 +5635,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 139.7) (xy 256.54 139.7)
+			(xy 246.38 139.7) (xy 254 139.7)
 		)
 		(stroke
 			(width 0)
@@ -5705,7 +5705,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 119.38) (xy 246.38 119.38)
+			(xy 254 119.38) (xy 246.38 119.38)
 		)
 		(stroke
 			(width 0)
@@ -6025,7 +6025,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 134.62) (xy 256.54 134.62)
+			(xy 246.38 134.62) (xy 254 134.62)
 		)
 		(stroke
 			(width 0)
@@ -6125,7 +6125,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 121.92) (xy 256.54 121.92)
+			(xy 246.38 121.92) (xy 254 121.92)
 		)
 		(stroke
 			(width 0)
@@ -6145,7 +6145,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 124.46) (xy 256.54 124.46)
+			(xy 246.38 124.46) (xy 254 124.46)
 		)
 		(stroke
 			(width 0)
@@ -6425,7 +6425,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 137.16) (xy 256.54 137.16)
+			(xy 246.38 137.16) (xy 254 137.16)
 		)
 		(stroke
 			(width 0)
@@ -6735,7 +6735,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 132.08) (xy 256.54 132.08)
+			(xy 246.38 132.08) (xy 254 132.08)
 		)
 		(stroke
 			(width 0)
@@ -7525,7 +7525,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x12_Pin")
-		(at 261.62 129.54 0)
+		(at 259.08 129.54 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -7537,7 +7537,7 @@
 		(fields_autoplaced yes)
 		(uuid "06247d32-0247-48f7-bed4-5d0e78f74536")
 		(property "Reference" "J4"
-			(at 262.89 129.5399 0)
+			(at 260.35 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7548,7 +7548,7 @@
 			)
 		)
 		(property "Value" "RIGHT"
-			(at 262.89 132.0799 0)
+			(at 260.35 132.0799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7559,7 +7559,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical"
-			(at 261.62 129.54 0)
+			(at 259.08 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7570,7 +7570,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 261.62 129.54 0)
+			(at 259.08 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7581,7 +7581,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x12, script generated"
-			(at 261.62 129.54 0)
+			(at 259.08 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
