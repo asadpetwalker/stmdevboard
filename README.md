@@ -7,6 +7,7 @@ Last year, I made an STM board but I had some trouble with programming and solde
 <img width="654" height="723" alt="image" src="https://github.com/user-attachments/assets/4869206b-2d32-494e-9038-28b59c48175f" />
 
 <img width="630" height="536" alt="image" src="https://github.com/user-attachments/assets/47874806-8040-46f4-bc62-332242db287f" />
+<img width="1016" height="664" alt="image" src="https://github.com/user-attachments/assets/73aa78d2-185a-4525-9933-0b4bfc9ce5a6" />
 
 # BOM
 
