@@ -2,12 +2,30 @@
 # Why I made it
 Last year, I made an STM board but I had some trouble with programming and soldering the board, and it didn't end up working. Thus, I want to actually make a proper STM32 board this time instead of rushing into an entire custom board. This is meant to be for me to get more experienced with STM MCU development, both on the hardware and software side. Overall, this is just a devboard in which you can plug and play wires into in order to program the STM, and to connect other boards to it as well.
 
+# Assembly Instructions
+
+1) Solder PCB
+
+# Demo Video
+
+
+https://github.com/user-attachments/assets/0cf9e99f-254d-49b3-bc89-e1d1af4b3d00
+
+
 
 # Pictures
 <img width="654" height="723" alt="image" src="https://github.com/user-attachments/assets/4869206b-2d32-494e-9038-28b59c48175f" />
 
 <img width="630" height="536" alt="image" src="https://github.com/user-attachments/assets/47874806-8040-46f4-bc62-332242db287f" />
 <img width="1016" height="664" alt="image" src="https://github.com/user-attachments/assets/73aa78d2-185a-4525-9933-0b4bfc9ce5a6" />
+
+<img width="3024" height="4032" alt="IMG_8354" src="https://github.com/user-attachments/assets/f47be236-edc2-4313-bfb8-c479f7308573" />
+<img width="3024" height="4032" alt="IMG_8353" src="https://github.com/user-attachments/assets/b7427efc-1c1e-4139-b073-8c2e0893b3fe" />
+<img width="3024" height="4032" alt="IMG_8351" src="https://github.com/user-attachments/assets/2fe82c96-92b7-4d7f-b941-75f9074295f6" />
+<img width="3024" height="4032" alt="IMG_8349" src="https://github.com/user-attachments/assets/948c16f1-a347-42b8-8648-b0bd91b93d6f" />
+<img width="3024" height="4032" alt="IMG_8350" src="https://github.com/user-attachments/assets/926a63c4-21b6-41f9-9486-6fcd2458e869" />
+<img width="4284" height="5712" alt="IMG_8352" src="https://github.com/user-attachments/assets/26c00551-8ed1-4a7b-ad0f-de3f9b0a3dac" />
+
 
 # BOM
 
