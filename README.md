@@ -2,6 +2,10 @@
 # Why I made it
 Last year, I made an STM board but I had some trouble with programming and soldering the board, and it didn't end up working. Thus, I want to actually make a proper STM32 board this time instead of rushing into an entire custom board. This is meant to be for me to get more experienced with STM MCU development, both on the hardware and software side. Overall, this is just a devboard in which you can plug and play wires into in order to program the STM, and to connect other boards to it as well.
 
+# About
+
+This dev board uses the STM32F411 LFQP package with 512kB of memory. It features SWD program headers. You can program it with the PA9/PA10 UART pins, or the SWD headers, or through DFU flash.
+
 # Assembly Instructions
 
 1) Solder PCB
